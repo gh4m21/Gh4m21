@@ -1,6 +1,6 @@
 <img src="https://github.com/gh4m21/Gh4m21/blob/main/linkeding%20banner.png?raw=true" alt="Alt text" title="cover">
 
-<h1 align="center">Hi 👋, I'm Yves Gervens Constant</h1>
+<!-- <h1 align="center">Hi 👋, I'm Yves Gervens Constant</h1> -->
 <h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gh4m21&label=Profile%20views&color=0e75b6&style=flat" alt="gh4m21" /> </p>
