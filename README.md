@@ -1,6 +1,6 @@
 <img src="https://github.com/gh4m21/Gh4m21/blob/main/linkeding%20banner.png?raw=true" alt="Alt text" title="cover">
-Hi 👋 My name is Yves Gervens Constant ======================================  
-Software and web developer --------------------------  
+Hi 👋 My name is Yves Gervens Constant 
+Software and web developer
 I have been working for 5 years in developing web and software solutions for business.  
 * * 🖥️  See my portfolio at [Yvesgervensconstant.me](http://Yvesgervensconstant.me) 
 * * ✉️  You can contact me at [gervoos@gmail.com](mailto:gervoos@gmail.com) 
@@ -22,5 +22,5 @@ I have been working for 5 years in developing web and software solutions for bus
 <a href="http://www.github.com/Gh4m21"><img src="https://github-readme-stats.vercel.app/api?username=Gh4m21&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="Gh4m21's GitHub stats" /></a>
 <a href="http://www.github.com/Gh4m21"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gh4m21&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="http://www.github.com/Gh4m21">
-<img src="https://activitygraph.herokuapp.com/graphusername=Gh4m21&bg_color=1c1917&color=ffffff&line=10b981&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom />
+<img src="https://activitygraph.herokuapp.com/graphusername=Gh4m21&bg_color=1c1917&color=ffffff&line=10b981&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom" />
 </a>
